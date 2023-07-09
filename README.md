@@ -5,7 +5,7 @@
   - [Red Teaming](#red-teaming)
     - [What is Red Teaming](#what-is-red-teaming)
     - [Why Red Teaming](#why-red-teaming)
-    - [Red Teaming v/s Penetration Testing](#red-teaming-v/s-penetration-testing)
+    - [Red Teaming x Penetration Testing](#red-teaming-x-penetration-testing)
     - [Red Team Methodologies](#red-team-methodologies)
     - [Red Team Report Template](#red-team-report-template)
     - [References](#references)
@@ -26,7 +26,7 @@ Red Teaming can be used to:
      3.  Test and understand specific threats or threat scenarios Red team engagements can be designed to exercise custom scenarios. Scenarios can include zero-days, ransom-ware attacks, or other unique attacks.
 
 
-### Red Teaming v/s Penetration Testing
+### Red Teaming x Penetration Testing
 
 Some of the key difference between Red Teaming and Penetration testing are:
 
