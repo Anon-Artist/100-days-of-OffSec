@@ -5,7 +5,7 @@
   - [Red Teaming](#red-teaming)
     - [What is Red Teaming](#what-is-red-teaming)
     - [Why Red Teaming](#why-red-teaming)
-    - [Penetration Testing v/s Red Teaming](#penetration-testing-v/s-red-teaming)
+    - [Red Teaming v/s Penetration Testing](#red-teaming-v/s-penetration-testing)
     - [Red Team Methodologies](#red-team-methodologies)
     - [Red Team Report Template](#red-team-report-template)
     - [References](#references)
@@ -26,13 +26,43 @@ Red Teaming can be used to:
      3.  Test and understand specific threats or threat scenarios Red team engagements can be designed to exercise custom scenarios. Scenarios can include zero-days, ransom-ware attacks, or other unique attacks.
 
 
-### Penetration Testing v/s Red Teaming
+### Red Teaming v/s Penetration Testing
 
+Some of the key difference between Red Teaming and Penetration testing are:
 
+<table style="width:100%">
+  <tr>
+    <th>Red Teaming</th>
+    <th>Penetration Testing</th>
+  </tr>
+  <tr>
+    <td>Focussed on acheiving goals or an attack path to acheive the goal</td>
+    <td>Focussed on Identifying maximum number of vulnerabilities</td>
+  </tr>
+  <tr>
+    <td>Assess people, processes and technologies</td>
+    <td>Assess vulnerabilities in the specified scope</td>
+  </tr>
+  <tr>
+    <td>Broad Scope</td>
+    <td>Narrow Scope</td>
+  </tr>
+    <tr>
+    <td>Focus on stealth</td>
+    <td>Stealth is not a factor</td>
+  </tr>
+</table>
 
 ### Red Team Methodologies
 
+One of the famous and most used framework is "Cyber Kill Chain" developed by Lockheed Martin.\
+<img src="[http://technostalls.com/wp-content/uploads/2017/12/Windows-Defender-FirewallAdvanced-Security-FeatureWFAS-1024x621.jpg](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/cyber/THE-CYBER-KILL-CHAIN-body.png.pc-adaptive.1280.medium.png)" width=75% alt="Image of Cyber Kill Chain">\
 
+There are other methodologies and framework such as
+  1. MITRE ATT & CK [https://attack.mitre.org/]
+  2. CBEST Intelligence Led Testing [https://www.crest-approved.org/membership/cbest/]
+  3. Adversial Attack Simulation Exercise [https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exercises-guidelines-v1-06766a69f299c69658b7dff00006ed795.pdf]
+  4. TIBER-EU [https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html]
 
 ### Red Team Report Template
 
@@ -44,3 +74,4 @@ You can find a good sample report of red team from here.
     
     https://redteamjournal.com/ 
     https://redteam.guide/
+    https://www.lockheedmartin.com/
