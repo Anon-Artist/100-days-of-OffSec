@@ -45,7 +45,7 @@ Some of the key difference between Red Teaming and Penetration testing are:
   </tr>
   <tr>
     <td>Broad Scope</td>
-    <td>Narrow Scope</td>
+    <td>Pre-Defined Scope</td>
   </tr>
     <tr>
     <td>Focus on stealth</td>
