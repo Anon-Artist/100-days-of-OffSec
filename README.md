@@ -15,7 +15,7 @@
 ### What is Red Teaming
 
 In fact there is no proper definition is available for Red teaming for example Red teaming is often used interchangeably with penetration testing even there is key difference in between them.\
-Red teaming can be defined as Red Teaming is the process of using Tactics, Techniques, and Procedures (TTPs) to emulate a real-world threat with the goals of training and measuring the effectiveness of the people, processes, and technology used to defend an environment or it is the practice of looking at a problem or situation from the perspective of an adversary.
+As I said the term is not standardized but in some reference the term Red Teaming is defined as the process of using Tactics, Techniques, and Procedures (TTPs) to emulate a real-world threat with the goals of training and measuring the effectiveness of the people, processes, and technology used to defend an environment or it is the practice of looking at a problem or situation from the perspective of an adversary.
 
 ### Why Red Teaming
 
