@@ -56,7 +56,7 @@ Some of the key difference between Red Teaming and Penetration testing are:
 ### Red Team Methodologies
 
 One of the famous and most used framework is "Cyber Kill Chain" developed by Lockheed Martin.\
-<img src="https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/photo/cyber/THE-CYBER-KILL-CHAIN-body.png.pc-adaptive.1280.medium.png" width=75% alt="Image of Cyber Kill Chain">\
+<img src="https://github.com/Anon-Artist/100-days-of-OffSec/blob/main/images/THE-CYBER-KILL-CHAIN.png" width=75% alt="Image of Cyber Kill Chain">
 
 There are other methodologies and framework such as
   1. MITRE ATT & CK [https://attack.mitre.org/]
