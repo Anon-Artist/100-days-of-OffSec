@@ -62,7 +62,7 @@ Some of the key difference between Red Teaming and Penetration testing are:
 One of the famous and most used framework is "Cyber Kill Chain" developed by Lockheed Martin.\
 <img src="https://github.com/Anon-Artist/100-days-of-OffSec/blob/main/images/THE-CYBER-KILL-CHAIN.png" width=75% alt="Image of Cyber Kill Chain">
 
-There are other methodologies and framework such as\
+There are other methodologies and framework such as
   1. MITRE ATT & CK [https://attack.mitre.org/]
   2. CBEST Intelligence Led Testing [https://www.crest-approved.org/membership/cbest/]
   3. Adversial Attack Simulation Exercise [https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exercises-guidelines-v1-06766a69f299c69658b7dff00006ed795.pdf]
@@ -92,7 +92,7 @@ As I said Everything is considered as an object in Active Directory. Below is a 
 ### Components of Active Directory
 
 Active Directory also includes:\
-	1. A set of rules, the schema, that defines the classes of objects and attributes contained in the directory, the constraints and limits on instances of these objects, and the format of their names.\
+	1. A set of rules, the schema, that defines the classes of objects and attributes contained in the directory, the constraints and limits on instances of these objects, and the format of their names.
 	2. A global catalog that contains information about every object in the directory. This allows users and administrators to find directory information regardless of which domain in the directory actually contains the data.\
 	3. A query and index mechanism, so that objects and their properties can be published and found by network users or applications.\
 	4. A replication service that distributes directory data across a network. All domain controllers in a domain participate in replication and contain a complete copy of all directory information for their domain. Any change to directory data is replicated to all domain controllers in the domain.
