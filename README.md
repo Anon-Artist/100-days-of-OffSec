@@ -95,17 +95,15 @@ As I said Everything is considered as an object in Active Directory. Below is a 
 
 Active Directory also includes:
 
-	1. A set of rules, the <b>schema</b>, that defines the classes of objects and attributes contained in the directory, the constraints and limits on instances of these objects, and the format of their names.
-
-	2. A <b>global catalog</b> that contains information about every object in the directory. This allows users and administrators to find directory information regardless of which domain in the directory actually contains the data.
-
-	3.A <b>query and index mechanism</b>, so that objects and their properties can be published and found by network users or applications.
-
-	4. A <b>replication service</b> that distributes directory data across a network. All domain controllers in a domain participate in replication and contain a complete copy of all directory information for their domain. Any change to directory data is replicated to all domain controllers in the domain.
+	1. A set of rules, the schema, that defines the classes of objects and attributes contained in the directory, the constraints and limits on instances of these objects, and the format of their names.
+	2. A global catalog that contains information about every object in the directory. This allows users and administrators to find directory information regardless of which domain in the directory actually contains the data.
+	3. A query and index mechanism, so that objects and their properties can be published and found by network users or applications.
+	4. A replication service that distributes directory data across a network. All domain controllers in a domain participate in replication and contain a complete copy of all directory information for their domain. Any change to directory data is replicated to all domain controllers in the domain.
 
 ### Structure of Active Directory
 
 Active Directory has three main tiers:
+
 	1. Organizational Units: Organizational Unit is used to manage users, groups, workstations, and other functional units.
 	2. Domain: Domain is a group of users, computers and other Active Directory objects that share the same AD database.
 	3. Tree: Domain tree is a collection of one or multiple domains grouped together in a hierarchical parent-child structure.
