@@ -25,7 +25,7 @@ As I said the term is not standardized but in some reference the term Red Teamin
 
 ### Why Red Teaming
 
-Red Teaming can be used to:
+Red Teaming can be used to:\
      1. Measure the effectiveness of the people, processes, and technology used to defend a network.\
      2. Train and/or measure Blue teams ability to impact a threat.\
      3. Test and understand specific threats or threat scenarios Red team engagements can be designed to exercise custom scenarios. Scenarios can include zero-days, ransom-ware attacks, or other unique attacks.
@@ -62,7 +62,7 @@ Some of the key difference between Red Teaming and Penetration testing are:
 One of the famous and most used framework is "Cyber Kill Chain" developed by Lockheed Martin.\
 <img src="https://github.com/Anon-Artist/100-days-of-OffSec/blob/main/images/THE-CYBER-KILL-CHAIN.png" width=75% alt="Image of Cyber Kill Chain">
 
-There are other methodologies and framework such as
+There are other methodologies and framework such as\
   1. MITRE ATT & CK [https://attack.mitre.org/]
   2. CBEST Intelligence Led Testing [https://www.crest-approved.org/membership/cbest/]
   3. Adversial Attack Simulation Exercise [https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exercises-guidelines-v1-06766a69f299c69658b7dff00006ed795.pdf]
@@ -91,7 +91,7 @@ As I said Everything is considered as an object in Active Directory. Below is a 
 
 ### Components of Active Directory
 
-Active Directory also includes:
+Active Directory also includes:\
 	1. A set of rules, the schema, that defines the classes of objects and attributes contained in the directory, the constraints and limits on instances of these objects, and the format of their names.\
 	2. A global catalog that contains information about every object in the directory. This allows users and administrators to find directory information regardless of which domain in the directory actually contains the data.\
 	3. A query and index mechanism, so that objects and their properties can be published and found by network users or applications.\
@@ -99,7 +99,7 @@ Active Directory also includes:
 
 ### Structure of Active Directory
 
-Active Directory has three main tiers:
+Active Directory has three main tiers:\
 	1. Organizational Units: Organizational Unit is used to manage users, groups, workstations, and other functional units.\
 	2. Domain: Domain is a group of users, computers and other Active Directory objects that share the same AD database.\
 	3. Tree: Domain tree is a collection of one or multiple domains grouped together in a hierarchical parent-child structure.\
