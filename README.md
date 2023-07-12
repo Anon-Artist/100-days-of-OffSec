@@ -20,6 +20,11 @@
     - [Checklist for setting up a basic active directory lab](#checklist-for-setting-up-a-basic-active-directory-lab)
     - [How to setup an Active Directory Lab](#how-to-stup-an-active-directory-lab)
     - [Building a Vulnerable Active Directory Lab](#building-a-vulnerable-active-directory-lab)
+4. Day 4
+  - [Introduction to Command and Control](#introduction-to-command-and-control)
+    - [What is Command and Control Server](#what-is-command-and-control)
+    - [Components in a Red Team Infrastructure](#components-in-a-red-team-infrastructure)
+    - [Reference](#reference)
 
 ## Introduction to Red Teaming
 
@@ -156,3 +161,18 @@ I recommend to make your lab vulnerable by yourself without relaying on the scri
   2. https://github.com/davidprowe/BadBlood
   3. https://github.com/dievus/ADGenerator
   4. https://github.com/WazeHell/vulnerable-AD
+
+## Introduction to Command and Control
+
+### What is Command and Control Server
+
+
+
+### Components in a Red Team Infrastructure
+
+
+
+### References
+
+References for Day-4
+  1. https://www.thec2matrix.com/
