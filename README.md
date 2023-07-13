@@ -25,6 +25,11 @@
     - [What is Command and Control Server](#what-is-command-and-control)
     - [Components in a Red Team Infrastructure](#components-in-a-red-team-infrastructure)
     - [Reference](#reference)
+5. Day 5
+  - [Reconnaissance](#reconnaissance)
+    - [What is Reconnaissance](#what-is-reconnaissance)
+    - [Passive Reconnaissance](#passive_reconnaissance)
+    - [Active Reconnaissance](#active_reconnaissance)
 
 ## Introduction to Red Teaming
 
