@@ -5,4 +5,4 @@
 * [Introduction to Active Directory](introduction-to-active-directory.md)
 * [Building an Active Directory Lab](building-an-active-directory-lab.md)
 * [Introduction to Red Team Infrastructure](introduction-to-command-and-control.md)
-* [External Reconnaissance](external-reconnaissance.md)
+* [External Reconnaissance](reconnaissance.md)

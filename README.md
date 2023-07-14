@@ -38,7 +38,8 @@
 
 5. Day 5
 
-* [Reconnaissance](./#reconnaissance)
-  * [What is Reconnaissance](./#what-is-reconnaissance)
-  * [Passive Reconnaissance](./#passive\_reconnaissance)
-  * [Active Reconnaissance](./#active\_reconnaissance)
+* [External Reconnaissance](reconnaissance.md)
+  * [What is External Reconnaissance](reconnaissance.md#what-is-external-reconnaissance)
+  * [Passive Reconnaissance](reconnaissance.md#passive-reconnaissance)
+  * [Active Reconnaissance](reconnaissance.md#active-reconnaissance)
+  * [References](reconnaissance.md#reference)
