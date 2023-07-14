@@ -1,4 +1,4 @@
-# Introduction to Command and Control
+# Introduction to Red Team Infrastructure
 
 ### What is Command and Control (C2)
 

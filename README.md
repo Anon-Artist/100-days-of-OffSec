@@ -29,12 +29,12 @@
 
 4. Day 4
 
-* [Introduction to Red Team Infrastructure](introduction-to-red-team-infrastructure.md)
-  * [What is Command and Control](introduction-to-red-team-infrastructure.md#what-is-command-and-control-c2)
-  * [Open Source C2 and Commercial C2](introduction-to-red-team-infrastructure.md#open-source-c2-and-commercial-c2)
-  * [C2 Matrix](introduction-to-red-team-infrastructure.md#c2-matrix)
-  * [Setup a Red Team Infrastructure](introduction-to-red-team-infrastructure.md#set-up-a-red-team-infrastructure)
-  * [References for setting up a Red Team Infrastructure](introduction-to-red-team-infrastructure.md#references-for-setting-up-a-red-team-infrastructure)
+* [Introduction to Red Team Infrastructure](introduction-to-command-and-control.md)
+  * [What is Command and Control](introduction-to-command-and-control.md#what-is-command-and-control-c2)
+  * [Open Source C2 and Commercial C2](introduction-to-command-and-control.md#open-source-c2-and-commercial-c2)
+  * [C2 Matrix](introduction-to-command-and-control.md#c2-matrix)
+  * [Setup a Red Team Infrastructure](introduction-to-command-and-control.md#set-up-a-red-team-infrastructure)
+  * [References for setting up a Red Team Infrastructure](introduction-to-command-and-control.md#references-for-setting-up-a-red-team-infrastructure)
 
 5. Day 5
 
