@@ -4,4 +4,4 @@
 * [Introduction to Red Teaming](introduction-to-red-teaming.md)
 * [Introduction to Active Directory](introduction-to-active-directory.md)
 * [Building an Active Directory Lab](building-an-active-directory-lab.md)
-* [Introduction to Command and Control](introduction-to-command-and-control.md)
+* [Introduction to Red Team Infrastructure](introduction-to-red-team-infrastructure.md)
