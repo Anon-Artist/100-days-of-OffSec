@@ -32,10 +32,11 @@ For more information:&#x20;
     * Hacker Search Engines - Shodan, Censys, ZoomEye, FOFA,&#x20;
     * Social Media Websites - LinkedIn, Twitter
     * DNS Enumeration - PureDNS, DNSdumpster
+    * ASN Enumeration - [https://bgp.he.net/](https://bgp.he.net/)
     * Passive Subdomain Enumeration - ReconFTW
     * Web Archives - Wayback Machines
     * Google Dorks - GHDB
-    * GitHub - Github
+    * GitHub - Github, TruffleHog
     * S3 Buckets - S3Scanner
     * Data breaches - Dehashed
 
@@ -43,7 +44,7 @@ For more information:&#x20;
 3. Active Gathering
    * Active Subdomain Enumeration - ReconFTW, reNgine
    * Port Scanning - rustscan, massscan, nmap
-   * Vulnerability Scanning - nuclei,&#x20;
+   * Vulnerability Scanning - nuclei, vulners
    * Public facing application directory brute-force - dirsearch, ffuf
 
 {% hint style="info" %}
