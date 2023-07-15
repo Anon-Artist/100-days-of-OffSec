@@ -42,4 +42,5 @@
   * [What is External Reconnaissance](reconnaissance.md#what-is-external-reconnaissance)
   * [Passive Reconnaissance](reconnaissance.md#passive-reconnaissance)
   * [Active Reconnaissance](reconnaissance.md#active-reconnaissance)
+  * [How to Perform External Reconnaissance](reconnaissance.md#how-to-perform-external-reconnaissance)
   * [References](reconnaissance.md#reference)
